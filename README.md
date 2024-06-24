@@ -97,6 +97,6 @@ Please ensure your code follows the coding standards and includes necessary docu
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
 
 - Email: [mauliknegi@gmail.com](mailto:mauliknegi@gmail.com)
-- GitHub: [NEEGx13](https://github.com/yourusername)
+- GitHub: [NEGIx13]([https://github.com/yourusername](https://github.com/NEGIx13))
 
 Thank you for visiting my repository! Happy coding!
