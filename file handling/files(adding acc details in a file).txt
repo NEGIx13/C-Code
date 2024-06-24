@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <math.h>
+#include <string.h>
+
+int main(){
+    FILE *fptr;
+    char name[30];
+    int age;
+    float cgpa;
+    fptr = fopen("while loop.txt", "w");
+    
+    printf("enter name:- ");
+    scanf("%s", &name);
+    printf("enter age:- ");
+    scanf("%d", &age);
+    printf("enter cgpa:- ");
+    scanf("%f", &cgpa);
+    
+    fprintf(fptr, "%s \t", name);
+    fprintf(fptr, "%d \t", age);
+    fprintf(fptr, "%f \t", cgpa);
+    
+    fclose(fptr);
+    return 0;
+}
