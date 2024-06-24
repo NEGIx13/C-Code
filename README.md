@@ -8,7 +8,6 @@ Welcome to my GitHub repository! This repository contains all the C code I've wr
 - [Repository Structure](#repository-structure)
 - [Setup and Usage](#setup-and-usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
