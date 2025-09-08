@@ -57,7 +57,7 @@ int main(){
         printf(" %d ", a[i]);
     }
     
-    ls(a[]);
+    ls(a);
     return 0;
 }
 
